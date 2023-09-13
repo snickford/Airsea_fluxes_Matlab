@@ -1,4 +1,5 @@
 function sol = Solubility(SST,SSS)
+% Adapted from the Python version by: https://github.com/breichl/airsea_fluxes/tree/main
 % input: sea surface temperature in Kelvin, surface salinity
 % returns: solubility (mmol L-1 atm-1) from SST and SSS
 % equation from Weiss (1974) as published by Wanninkhof (2014)

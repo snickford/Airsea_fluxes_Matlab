@@ -1,4 +1,6 @@
 function kw_660_nb = DM18_KW660_nb(ust,sc)
+% Adapted from the Python version by: https://github.com/breichl/airsea_fluxes/tree/main
+
 % input: ust (u*; friction velocity, in units of m/s for output kw_660 
 %               in units of m/s)
 % returns: kw_660_nb - non-breaking gas transfer velocity in units of ust (usually m/s)

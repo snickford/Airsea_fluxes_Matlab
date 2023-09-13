@@ -1,4 +1,6 @@
 function Sc = SchmidtNumber_CO2(SST)
+% Adapted from the Python version by: https://github.com/breichl/airsea_fluxes/tree/main
+
 % input: Sea surface temperature in Celcius
 % returns: non-dimensional Schmidt number for CO2
 

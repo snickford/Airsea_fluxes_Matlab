@@ -1,4 +1,6 @@
 function kw_660_b =  DM18_KW660_b(ust, hs, alpha, sc)
+% Adapted from the Python version by: https://github.com/breichl/airsea_fluxes/tree/main
+
 % input: ust: Friction velocity, m s^{-1}
 %        hs: Significant wave height, m
 %        alpha: Non-dimensional diffusivity
